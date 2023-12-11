@@ -1,0 +1,10 @@
+.true {
+  text-decoration: line-through;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+}
+span {
+  font-size: 80px;
+}
